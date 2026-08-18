@@ -2,7 +2,8 @@
 
 Static GitHub Pages site for the app's platform-specific privacy policies.
 
-- `/ios/`: iOS App Store policy, including HTTPS Starter Pack delivery.
+- `/ios/`: iOS App Store policy, including StoreKit purchase verification and
+  HTTPS Starter/paid-content delivery.
 - `/android/`: Google Play policy, including Play Asset Delivery.
 - `/`: bilingual platform selector.
 
