@@ -1,6 +1,6 @@
 # iOS Privacy Policy | Política de Privacidade para iOS
 
-Last updated / Última atualização: August 6, 2026 / 6 de agosto de 2026
+Last updated / Última atualização: August 17, 2026 / 17 de agosto de 2026
 
 Public URL:
 https://avesdosbrasis.github.io/aves-do-sudeste-do-brasil-privacy-policy/ios/
